@@ -14,4 +14,4 @@ where memory location and data must be 12 bit hexadecimal values. It uses the me
 ## Command Line Arguments
 
 -v: verbose mode  
-at each instruction print out the state of the machine. This includes the program counter, instructions being executed, and each register.
+At each instruction print out the state of the machine. This includes the program counter, instructions being executed, and each register.
