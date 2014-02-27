@@ -1,0 +1,4 @@
+CC = gcc
+
+pdp8: pdp8.c
+	$(CC) -O0 -ggdb3 pdp8.c

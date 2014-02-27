@@ -1,0 +1,24 @@
+Time 1: PC=0x043 instruction = 0xE80 (CLA), rA = 0x000, rL = 0
+Time 4: PC=0x044 instruction = 0x941 (JMS I), rA = 0x000, rL = 0
+Time 6: PC=0x37F instruction = 0x2C0 (TAD), rA = 0x034, rL = 0
+Time 8: PC=0x380 instruction = 0xB81 (JMP I), rA = 0x034, rL = 0
+Time 10: PC=0x37D instruction = 0xBFE (JMP I), rA = 0x034, rL = 0
+Time 11: PC=0x045 instruction = 0xE00 (), rA = 0x034, rL = 0
+Time 12: PC=0x046 instruction = 0xE80 (CLA), rA = 0x000, rL = 0
+Time 14: PC=0x047 instruction = 0x640 (DCA), rA = 0x000, rL = 0
+Time 17: PC=0x048 instruction = 0x942 (JMS I), rA = 0x000, rL = 0
+Time 19: PC=0xFFF instruction = 0x440 (ISZ), rA = 0x000, rL = 0
+Time 20: PC=0x000 instruction = 0xE01 (IAC), rA = 0x001, rL = 0
+Time 21: PC=0x001 instruction = 0xE01 (IAC), rA = 0x002, rL = 0
+Time 23: PC=0x002 instruction = 0xB03 (JMP I), rA = 0x002, rL = 0
+Time 25: PC=0xFFD instruction = 0xBFE (JMP I), rA = 0x002, rL = 0
+Time 26: PC=0x049 instruction = 0xE00 (), rA = 0x002, rL = 0
+Time 27: PC=0x04A instruction = 0xEA0 (CLA CMA), rA = 0xFFF, rL = 0
+Time 29: PC=0x04B instruction = 0x640 (DCA), rA = 0x000, rL = 0
+Time 32: PC=0x04C instruction = 0x942 (JMS I), rA = 0x000, rL = 0
+Time 34: PC=0xFFF instruction = 0x440 (ISZ), rA = 0x000, rL = 0
+Time 35: PC=0x001 instruction = 0xE01 (IAC), rA = 0x001, rL = 0
+Time 37: PC=0x002 instruction = 0xB03 (JMP I), rA = 0x001, rL = 0
+Time 39: PC=0xFFD instruction = 0xBFE (JMP I), rA = 0x001, rL = 0
+Time 40: PC=0x04D instruction = 0xE00 (), rA = 0x001, rL = 0
+Time 41: PC=0x04E instruction = 0xF02 (HLT), rA = 0x001, rL = 0

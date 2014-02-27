@@ -1,0 +1,10 @@
+Time 2: PC=0x067 instruction = 0x664 (DCA), rA = 0x000, rL = 0
+Time 4: PC=0x068 instruction = 0x275 (TAD), rA = 0x011, rL = 0
+Time 5: PC=0x069 instruction = 0xE21 (CMA IAC), rA = 0xFEF, rL = 0
+Time 7: PC=0x06A instruction = 0x665 (DCA), rA = 0x000, rL = 0
+Time 9: PC=0x06B instruction = 0x200 (TAD), rA = 0x000, rL = 0
+Time 10: PC=0x06C instruction = 0xE21 (CMA IAC), rA = 0x000, rL = 1
+Time 12: PC=0x06D instruction = 0x264 (TAD), rA = 0x000, rL = 1
+Time 13: PC=0x06E instruction = 0xFA8 (SZA RSS CLA), rA = 0x000, rL = 1
+Time 14: PC=0x06F instruction = 0xA66 (JMP), rA = 0x000, rL = 1
+Time 15: PC=0x066 instruction = 0xF02 (HLT), rA = 0x000, rL = 1
